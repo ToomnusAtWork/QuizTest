@@ -40,7 +40,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## วิธีการติดตั้ง
 
 1. Clone this repo to your machine
-2. คัดลอกไฟล์ ```shell cp .env.example .env```
+2. คัดลอกไฟล์ ``` cp .env.example .env```
 3. ระบุประเภท database, user และ password (จำเป็นต้องมี table eadesign ทั้ง 4 ประเภทด้วย)
-4. รัน ```shell composer install & npm install``` เพื่อติดตั้งส่วนเสริม
-5. รัน ```shell php artisan serve & npm run dev``` เพื่อรันโปรเจกต์ 
+4. รัน ``` composer install & npm install``` เพื่อติดตั้งส่วนเสริม
+5. รัน ``` php artisan serve & npm run dev``` เพื่อรันโปรเจกต์
+
+
+
+![quiz_screenshot](https://github.com/user-attachments/assets/258a71de-df3b-4ccc-b64e-1bf5553bfad6)
